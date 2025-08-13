@@ -1,2 +1,1 @@
-# Shree-Varshini
-Patient centric intelligent medicine dispenser
+# Patient centric intelligent medicine dispenser
